@@ -1,0 +1,2 @@
+#!/bin/bash
+systemctl restart waydroid-container.service | true

@@ -1,0 +1,14 @@
+Package: waydroid-android-image-gapps
+Version: 18.1-20230814074240
+Maintainer: gfdgd xi <3025613752@qq.com>
+Homepage: https://github.com/gfdgd-xi/waydroid-runner
+Architecture: amd64
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+Priority: optional
+Depends: 
+Section: utils
+Installed-Size: 2628136
+Description: Waydroid Android 镜像
